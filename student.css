@@ -1,0 +1,21 @@
+.me-auto{
+    margin-left: 50em;
+    text-align: right;
+}
+.btn{
+    margin-right: 15px;
+}
+.form{
+    margin-top: 300px;
+    margin-left: 300px;
+    margin-bottom: 10px;
+}
+.playbtn{
+    margin-left: 300px;
+    margin-top: 10px;
+}
+.whole{
+    background-color: rgb(71, 75, 74);
+    background-size: cover;
+    height: 100vb;
+}
